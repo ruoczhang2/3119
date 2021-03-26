@@ -1,4 +1,4 @@
-postive
+*postive
 abound
 abounds
 abundance
